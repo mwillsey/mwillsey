@@ -9,9 +9,9 @@ a toolkit for program optimization and synthesis
 powered by e-graphs and equality saturation.
 We've applied it to some really fun domains like
   [improving floating point accuracy](https://herbie.uwplse.org),
-  [shrinking 3D models](/papers/pldi-szalinski),
+  [shrinking 3D models](//mwillsey.com/papers/pldi-szalinski),
   and
-  [linear algebra optimization](/papers/tensat).
+  [linear algebra optimization](//mwillsey.com/papers/tensat).
 
 [allen]: https://www.cs.washington.edu
 [plse]:  http://uwplse.org
